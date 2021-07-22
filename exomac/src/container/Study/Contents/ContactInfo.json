@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "icon": "images/svg/linea/linea-basic-map.svg",
+    "title": "사업 소재지",
+    "info": "서울 송파구 중대로 135 <br> IT벤처타워 서관 10층"
+    },
+    {
+    "id": "2",
+    "icon": "images/svg/linea/linea-basic-message-txt.svg",
+    "title": "고객센터",
+    "info": "(+82) 010-2398-0996 "
+    },
+    {
+    "id": "3",
+    "icon": "images/svg/linea/linea-basic-mail-open-text.svg",
+    "title": "이메일",
+    "info": "widdefinesme@gmail.com"
+    }
+]
